@@ -13,5 +13,63 @@
   ],
   "userdetails": [],
   "useraccount": [],
-  "withdrawal":[]
+  "withdrawal":[],
+  "history":[
+    {
+      "id":1,
+      "amount":2000,
+      "AmountType":"creadit",
+      "actionType":"Account funded"
+     
+    },
+    {
+      "id":2,
+      "amount":2000,
+      "AmountType":"debit",
+      "actionType":"Mobile Recharge"
+   
+    },
+    {
+      "id":3,
+      "amount":2080,
+      "AmountType":"creadit",
+      "actionType":"Phone pay"
+     
+    },
+    {
+      "id":4,
+      "amount":4500,
+      "AmountType":"debit",
+      "actionType":"Stock marcket"
+     
+    },
+     {
+      "id":5,
+      "amount":2000,
+      "AmountType":"creadit",
+      "actionType":"Account funded"
+     
+    },
+    {
+      "id":6,
+      "amount":5000,
+      "AmountType":"debit",
+      "actionType":"Bill Payment"
+   
+    },
+    {
+      "id":7,
+      "amount":2080,
+      "AmountType":"creadit",
+      "actionType":"uPI"
+     
+    },
+    {
+      "id":8,
+      "amount":4500,
+      "AmountType":"debit",
+      "actionType":"Stock marcket"
+     
+    }
+  ]
 }
