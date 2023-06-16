@@ -11,65 +11,78 @@
       "password": "ahamad@123"
     }
   ],
-  "userdetails": [],
-  "useraccount": [],
-  "withdrawal":[],
-  "history":[
+  "userdetails": [
     {
-      "id":1,
-      "amount":2000,
-      "AmountType":"creadit",
-      "actionType":"Account funded"
-     
+      "name": "AHAMAD RASUL SHAIKH",
+      "image": "C:\\fakepath\\Photo.jpg",
+      "email": "shaikhahamadrasul786@gmail.com",
+      "mobile_no": 9561638593,
+      "gender": "male",
+      "isMarried": "no",
+      "bank_name": "sbi",
+      "account_no": 123456789,
+      "balance": 5000,
+      "id": 1
+    }
+  ],
+  "useraccount": [
+    {
+      "name": "AHAMAD RASUL SHAIKH",
+      "bank_name": "sbi",
+      "account_no": 123456789,
+      "amount": 1500,
+      "id": 1
+    }
+  ],
+  "withdrawal": [],
+  "history": [
+    {
+      "id": 1,
+      "amount": 2000,
+      "AmountType": "creadit",
+      "actionType": "Account funded"
     },
     {
-      "id":2,
-      "amount":2000,
-      "AmountType":"debit",
-      "actionType":"Mobile Recharge"
-   
+      "id": 2,
+      "amount": 2000,
+      "AmountType": "debit",
+      "actionType": "Mobile Recharge"
     },
     {
-      "id":3,
-      "amount":2080,
-      "AmountType":"creadit",
-      "actionType":"Phone pay"
-     
+      "id": 3,
+      "amount": 2080,
+      "AmountType": "creadit",
+      "actionType": "Phone pay"
     },
     {
-      "id":4,
-      "amount":4500,
-      "AmountType":"debit",
-      "actionType":"Stock marcket"
-     
-    },
-     {
-      "id":5,
-      "amount":2000,
-      "AmountType":"creadit",
-      "actionType":"Account funded"
-     
+      "id": 4,
+      "amount": 4500,
+      "AmountType": "debit",
+      "actionType": "Stock marcket"
     },
     {
-      "id":6,
-      "amount":5000,
-      "AmountType":"debit",
-      "actionType":"Bill Payment"
-   
+      "id": 5,
+      "amount": 2000,
+      "AmountType": "creadit",
+      "actionType": "Account funded"
     },
     {
-      "id":7,
-      "amount":2080,
-      "AmountType":"creadit",
-      "actionType":"uPI"
-     
+      "id": 6,
+      "amount": 5000,
+      "AmountType": "debit",
+      "actionType": "Bill Payment"
     },
     {
-      "id":8,
-      "amount":4500,
-      "AmountType":"debit",
-      "actionType":"Stock marcket"
-     
+      "id": 7,
+      "amount": 2080,
+      "AmountType": "creadit",
+      "actionType": "uPI"
+    },
+    {
+      "id": 8,
+      "amount": 4500,
+      "AmountType": "debit",
+      "actionType": "Stock marcket"
     }
   ]
 }
