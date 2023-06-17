@@ -84,5 +84,6 @@
       "AmountType": "debit",
       "actionType": "Stock marcket"
     }
-  ]
+  ],
+  "fund":[]
 }
