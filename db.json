@@ -34,7 +34,22 @@
       "id": 1
     }
   ],
-  "withdrawal": [],
+  "withdrawal": [
+    {
+      "id": 1,
+      "budget": "debit",
+      "accountNumber": 14147855,
+      "bank": "BOI",
+      "date": "12-02-2023"
+    },
+    {
+      "id": 2,
+      "budget": "credit",
+      "accountNumber": 14147855,
+      "bank": "BOI",
+      "date": "12-02-2023"
+    }
+  ],
   "history": [
     {
       "id": 1,
@@ -85,5 +100,5 @@
       "actionType": "Stock marcket"
     }
   ],
-  "fund":[]
+  "fund": []
 }
