@@ -116,7 +116,7 @@
       "id": 1,
       "amount": 50,
       "category": "Gold",
-      "duration": "11-02-2023",
+      "duration": "11-02-2023"
     },
     {
       "id": 2,
@@ -128,7 +128,7 @@
       "id": 3,
       "amount": 70,
       "category": "emi",
-      "duration": "10-05-2023",
+      "duration": "10-05-2023"
     }
   ]
 }
