@@ -36,18 +36,28 @@
   ],
   "withdrawal": [
     {
-      "id": 1,
       "budget": "debit",
-      "accountNumber": 14147855,
       "bank": "BOI",
-      "date": "12-02-2023"
+      "accountNumber": 141477,
+      "date": "0111-12-14",
+      "amount": 52555,
+      "id": 3
     },
     {
-      "id": 2,
-      "budget": "credit",
-      "accountNumber": 14147855,
+      "budget": "debit",
       "bank": "BOI",
-      "date": "12-02-2023"
+      "accountNumber": 141477,
+      "date": "0111-12-14",
+      "amount": 52555,
+      "id": 4
+    },
+    {
+      "budget": "debit",
+      "bank": "BOI",
+      "accountNumber": 141477,
+      "date": "0111-12-14",
+      "amount": 52555,
+      "id": 5
     }
   ],
   "history": [
@@ -100,5 +110,25 @@
       "actionType": "Stock marcket"
     }
   ],
-  "fund": []
+  "fund": [],
+  "budget": [
+    {
+      "id": 1,
+      "amount": 50,
+      "category": "Gold",
+      "duration": "11-02-2023",
+    },
+    {
+      "id": 2,
+      "amount": 50,
+      "category": "work",
+      "duration": "12-02-2023"
+    },
+    {
+      "id": 3,
+      "amount": 70,
+      "category": "emi",
+      "duration": "10-05-2023",
+    }
+  ]
 }
